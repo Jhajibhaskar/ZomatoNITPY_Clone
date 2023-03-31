@@ -1,7 +1,7 @@
 # ZomatoNITPY_Homepage_Clone
 This Project is in Progress ..............................
 
-Live Project Link: https://jhajibhaskar.github.io/ZomatoNITPY_Clone .....................................................................................
+Live Project Link: https://jhajibhaskar.github.io/ZomatoNITPY_Clone 
 
 ## Project Contributors:
 
